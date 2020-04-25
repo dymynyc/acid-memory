@@ -1,0 +1,20 @@
+{
+  "name": "acidlisp",
+  "description": "naive memory (mis) management for acidlisp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dominictarr/acid-memory",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/acid-memory.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^4.13.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+  "license": "MIT"
+}
