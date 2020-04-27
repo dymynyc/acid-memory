@@ -1,11 +1,11 @@
 {
-  "name": "acidlisp",
+  "name": "acid-memory",
   "description": "naive memory (mis) management for acidlisp",
   "version": "1.0.0",
-  "homepage": "https://github.com/dominictarr/acid-memory",
+  "homepage": "https://github.com/dymynyc/acid-memory",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/acid-memory.git"
+    "url": "git://github.com/dymynyc/acid-memory.git"
   },
   "dependencies": {
   },
